@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Producto1",
+    "price": 25,
+    "thumbnail": "https://cdn.pixabay.com/photo/2016/11/18/17/47/iphone-1836071_960_720.jpg",
+    "identificador": 1
+  },
+  {
+    "title": "Producto2",
+    "price": 25,
+    "thumbnail": "https://image.dhgate.com/0x0s/f2-albu-g10-M00-3C-53-rBVaWV7Pe8KAZS-lAASdOCwpp1w302.jpg/17-key-de-alta-calidad-kalimba-africano-s.jpg",
+    "identificador": 2
+  },
+  {
+    "title": "Producto3",
+    "price": 25,
+    "thumbnail": "https://cdn.pocket-lint.com/r/s/970x/assets/images/155087-laptops-review-microsoft-surface-laptop-go-review-image1-6ezitk9ymj.jpg",
+    "identificador": 3
+  },
+  {
+    "title": "Producto4",
+    "price": 25,
+    "thumbnail": "https://ae01.alicdn.com/kf/H2de88ccdcbcb406abb9238ed5b3258adQ/Yoyobarista-yoyo-capuchino-para-jugador-profesional-1A-3A-5A-novedad-de-2021.jpg_Q90.jpg_.webp",
+    "identificador": 4
+  },
+  {
+    "title": "Producto5",
+    "price": 25,
+    "thumbnail": "https://cdn.milenio.com/uploads/media/2020/07/13/arquitecto-escultor-hungaro-erno-rubik.jpg",
+    "identificador": 5
+  }
+]

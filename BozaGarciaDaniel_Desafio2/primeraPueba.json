@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Lu",
+    "edad": 25,
+    "identificador": 1
+  },
+  {
+    "nombre": "Daniel",
+    "edad": 31,
+    "identificador": 2
+  },
+  {
+    "nombre": "Pepe",
+    "edad": 23,
+    "identificador": 3
+  },
+  {
+    "nombre": "Flor",
+    "edad": 31,
+    "identificador": 4
+  },
+  {
+    "nombre": "Giani",
+    "edad": 28,
+    "identificador": 5
+  },
+  {
+    "nombre": "Lu",
+    "edad": 25,
+    "identificador": 6
+  },
+  {
+    "nombre": "Daniel",
+    "edad": 31,
+    "identificador": 7
+  },
+  {
+    "nombre": "Pepe",
+    "edad": 23,
+    "identificador": 8
+  },
+  {
+    "nombre": "Flor",
+    "edad": 31,
+    "identificador": 9
+  },
+  {
+    "nombre": "Giani",
+    "edad": 28,
+    "identificador": 10
+  }
+]
