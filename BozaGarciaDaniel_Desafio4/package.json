@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "router": "^1.3.7"
+  },
+  "name": "bozagarciadaniel_desafio4",
+  "version": "1.0.0",
+  "main": "desafio4.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node desafio4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
